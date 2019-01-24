@@ -8,4 +8,6 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ### Universeller Fernsteuerantrieb für Auto- und Flugmodelle sowie Hoovercrafts und Gleitboote
 
-![Picture](https://github.com/heise/Vektorstrahlantrieb/FertigerGleiter.JPG)
+Hier gibt es die 3D-Dateien für den universellen Fernsteuerantrieb zum Download.
+
+Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 1/19 ab Seite !!! zu lesen.
