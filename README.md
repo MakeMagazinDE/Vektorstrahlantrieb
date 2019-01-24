@@ -8,4 +8,4 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ### Universeller Fernsteuerantrieb für Auto- und Flugmodelle sowie Hoovercrafts und Gleitboote
 
-![Picture](https://github.com/heise/Vektorstrahlantrieb/blob/master/Gleiter.JPG)
+![Picture](https://github.com/heise/Vektorstrahlantrieb/FertigerGleiter.JPG)
