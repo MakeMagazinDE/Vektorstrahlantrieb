@@ -12,5 +12,5 @@ Unser simpler Aufsteckantrieb bringt nicht nur beliebige Spielzeugautos, Gleit-B
 
 ![Picture](https://github.com/heise/Vektorstrahlantrieb/blob/master/FertigerGleiter.JPG)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 1/19 ab Seite 62 zu lesen.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 1/19 ab Seite 62](https://www.heise.de/select/make/2019/1/1551100253897264)** zu lesen.
 Hier gibt es die 3D-Dateien für den universellen Fernsteuerantrieb zum Download. Im Heft beschreiben wir auch eine zweite Variante, die ohne 3D-Drucker auskommt.
